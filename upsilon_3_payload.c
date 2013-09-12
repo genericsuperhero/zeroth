@@ -55,3 +55,4 @@ def make_bd_exe(arch):
 if __name__=="__main__":
     make_bd_exe("32")
     #make_bd_exe("64")
+    
