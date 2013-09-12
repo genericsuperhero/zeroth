@@ -1,0 +1,3 @@
+select volume 0
+assign letter=r
+exit
